@@ -16,6 +16,8 @@ int main()
 	
 	o2 = o1;
 	
+	s.aa;
+	
 	
 	o1.show();
 	o2.show();
